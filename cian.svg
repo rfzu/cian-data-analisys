@@ -1106,7 +1106,7 @@ text {font-family:Arimo,Liberation Sans,Arial,sans-serif}
 					<g id="route2_stname_over">
 						<text x="861" y="789" class="ic">Павелецкая - 9.5</text>
 						<g class="end">
-							<text x="915" y="882">Автозаводская</text>
+							<text x="915" y="882">Автозаводская - 7.58</text>
 							<text x="936" y="915">Технопарк</text>
 							<text x="936" y="950">Коломенская - 5.8</text>
 							<text x="941" y="1040" class="ic">Каширская - 5.2</text>
@@ -1121,12 +1121,12 @@ text {font-family:Arimo,Liberation Sans,Arial,sans-serif}
 						<text x="506" y="666" class="mid">Смоленская - 15.96</text>
 						<text x="701" y="616" class="ic r3">Площадь Революции - 392.38</text>
 						<text x="953" y="608" class="ic">Курская - 12.01</text>
-						<text x="976" y="577">Бауманская</text>
+						<text x="976" y="577">Бауманская - 9.99</text>
 					</g>
 					<g id="route4_stname_over">
 						<text x="398" y="515" class="ic r4 end">Выставочная - 11.6</text>
 						<text x="480" y="571" class="mid">Смоленская - 15.96-2</text>
-						<text x="600" y="607" class="ic r4 end">Александровский сад</text>
+						<text x="600" y="607" class="ic r4 end">Александровский сад - 63.32</text>
 					</g>
 					<g id="route5_stname_over">
 						<text x="578" y="362" class="ic r5">Новослободская - 10.4</text>
@@ -1141,7 +1141,7 @@ text {font-family:Arimo,Liberation Sans,Arial,sans-serif}
 							<text x="304" y="362">Октябрьское поле - 7.19</text>
 						</g>
 						<g class="ic r7">
-							<text x="473" y="458">Баррикадная</text>
+							<text x="473" y="458">Баррикадная - 17.8</text>
 							<text x="605" y="458">Пушкинская - 21.24</text>
 						</g>
 					</g>
@@ -1185,7 +1185,7 @@ text {font-family:Arimo,Liberation Sans,Arial,sans-serif}
 					<text x="337" y="224">Водный стадион - 6.99</text>
 					<text x="365" y="258">Войковская - 6.8</text>
 					<text x="395" y="288">Сокол - 7.25</text>
-					<text x="425" y="318">Аэропорт</text>
+					<text x="425" y="318">Аэропорт - 7.32</text>
 					<text x="455" y="348">Динамо - 6.4</text>
 					<text x="460" y="385" class="ic end">Белорусская - 9.0</text>
 					<text x="540" y="432">Маяковская - 14.97</text>
@@ -1210,7 +1210,7 @@ text {font-family:Arimo,Liberation Sans,Arial,sans-serif}
 						<text x="187" y="625" class="ic">Парк Победы - 6.09</text>
 						<text x="419" y="643" class="ic">Киевская - 12.7</text>
 					</g>
-					<text x="572" y="626" class="ic r3 end">Арбатская</text>
+					<text x="572" y="626" class="ic r3 end">Арбатская - 22.3</text>
 					<!--<text x="800" y="628" class="ic r3">Хмельницкая</text>-->
 					<text x="1006" y="547">Электрозаводская - 6.9</text>
 					<text x="1036" y="517">Семеновская</text>
@@ -1223,12 +1223,12 @@ text {font-family:Arimo,Liberation Sans,Arial,sans-serif}
 					<text x="401" y="485" class="end">Международная - 54.76</text>
 					<text x="127" y="460">Пионерская - 6.76</text>
 					<text x="157" y="490">Филевский парк</text>
-					<text x="187" y="520">Багратионовская</text>
+					<text x="187" y="520">Багратионовская - 7.02</text>
 					<text x="217" y="550">Фили - 7.5</text>
 					<text x="300" y="600" class="end">Кутузовская - 9.5</text>
 					<g class="mid">
 						<text x="362" y="591">Студенческая - 9.16</text>
-						<text x="571" y="571">Арбатская-2</text>
+						<text x="571" y="571">Арбатская - 22.3-2</text>
 					</g>
 				</g>
 				<g id="route5_stname" class="ic r5">
@@ -1236,11 +1236,11 @@ text {font-family:Arimo,Liberation Sans,Arial,sans-serif}
 					<text x="774" y="838">Добрынинская - 15.0</text>
 				</g>
 				<g id="route6_stname">
-					<text x="840" y="138">Бабушкинская</text>
+					<text x="840" y="138">Бабушкинская - 5.2</text>
 					<text x="840" y="168">Свиблово - 6.46</text>
 					<text x="840" y="198">Ботанический сад - 5.92</text>
 					<text x="840" y="229" class="ic">ВДНХ - 7.0</text>
-					<text x="840" y="258">Алексеевская</text>
+					<text x="840" y="258">Алексеевская - 7.5</text>
 					<text x="840" y="288">Рижская - 7.76</text>
 					<text x="840" y="340" class="ic">Проспект <tspan x="840" dy="15" class="ic">Мира</tspan></text>
 					<text x="816" y="395" class="end">Сухаревская - 12.0</text>
@@ -1251,7 +1251,7 @@ text {font-family:Arimo,Liberation Sans,Arial,sans-serif}
 					</g>
 					<text x="647" y="866">Шаболовская - 8.8</text>
 					<text x="617" y="896">Ленинский проспект - 9.66</text>
-					<text x="587" y="926">Академическая</text>
+					<text x="587" y="926">Академическая - 7.4</text>
 					<text x="557" y="956">Профсоюзная - 7.9</text>
 					<text x="534" y="981">Новые Черемушки</text>
 					<text x="530" y="1011">Калужская - 7.96</text>
@@ -1268,7 +1268,7 @@ text {font-family:Arimo,Liberation Sans,Arial,sans-serif}
 						<text x="262" y="262">Тушинская - 6.5</text>
 						<text x="262" y="292">Спартак</text>
 						<text x="334" y="392">Полежаевская - 10.58</text>
-						<text x="364" y="422">Беговая</text>
+						<text x="364" y="422">Беговая - 9.88</text>
 						<text x="394" y="452">Улица 1905 года - 8.42</text>
 					</g>
 					<g class="ic r7">
@@ -1289,14 +1289,14 @@ text {font-family:Arimo,Liberation Sans,Arial,sans-serif}
 					<g class="ic r8">
 						<text x="1044" y="735">Площадь Ильича - 7.47</text>
 					</g>
-					<text x="1077" y="710">Авиамоторная</text>
+					<text x="1077" y="710">Авиамоторная - 5.3</text>
 					<text x="1107" y="680">Шоссе Энтузиастов - 5.1</text>
 					<text x="1137" y="650">Перово - 5.3</text>
 					<text x="1167" y="620">Новогиреево - 5.3</text>
 					<text x="1197" y="590">Новокосино</text>
 				</g>
 				<g id="route9_stname">
-					<text x="587" y="57">Алтуфьево</text>
+					<text x="587" y="57">Алтуфьево - 5.77</text>
 					<text x="587" y="87">Бибирево - 5.0</text>
 					<text x="587" y="117">Отрадное - 6.06</text>
 					<text x="587" y="147">Владыкино - 5.7</text>
@@ -1319,7 +1319,7 @@ text {font-family:Arimo,Liberation Sans,Arial,sans-serif}
 					<text x="760" y="1126">Южная - 5.7</text>
 					<text x="735" y="1151">Пражская - 5.9</text>
 					<text x="705" y="1176">Улица академика <tspan x="705" dy="13">Янгеля</tspan></text>
-					<text x="675" y="1211">Аннино</text>
+					<text x="675" y="1211">Аннино - 5.1</text>
 					<text x="644" y="1243" class="ic r9">Бульвар Дмитрия Донского - 5.8</text>
 				</g>
 				<g id="route10_stname">
