@@ -552,7 +552,7 @@ text {font-family:Arimo,Liberation Sans,Arial,sans-serif}
 			</g>
 		</g>
 		<g>
-			<title>#4 Филёвская линия</title>
+			<title>#4 Филевская линия</title>
 			<use xlink:href="#route4" class="mebg"/>
 			<g class="me p4">
 				<path id="route4" d="
@@ -651,7 +651,7 @@ text {font-family:Arimo,Liberation Sans,Arial,sans-serif}
 			<text x="129" y="50" class="ic">Тимирязевская - 6.8</text>
 			<text x="127" y="80">Улица Милашенкова</text>
 			<text x="127" y="110">Телецентр</text>
-			<text x="127" y="140">Улица Академика Королёва</text>
+			<text x="127" y="140">Улица Академика Королева</text>
 			<text x="129" y="167" class="ic">Выставочный центр</text>
 			<text x="127" y="200">Улица Сергея Эйзенштейна</text>
 			<text x="127" y="18" class="ic">Тимирязевская - 6.8</text>
@@ -1101,7 +1101,7 @@ text {font-family:Arimo,Liberation Sans,Arial,sans-serif}
 						<text x="475" y="762" class="ic end">Парк культуры</text>
 						<text x="465" y="817">Фрунзенская - 17.88</text>
 						<text x="435" y="847">Спортивная - 11.5</text>
-						<text x="405" y="877">Воробьёвы горы</text>
+						<text x="405" y="877">Воробьевы горы</text>
 					</g>
 					<g id="route2_stname_over">
 						<text x="861" y="789" class="ic">Павелецкая - 9.5</text>
@@ -1176,7 +1176,7 @@ text {font-family:Arimo,Liberation Sans,Arial,sans-serif}
 					<text x="375" y="907">Университет - 10.4</text>
 					<text x="345" y="937">Проспект Вернадского - 7.5</text>
 					<text x="315" y="967">Юго-Западная - 9.36</text>
-					<text x="285" y="997">Тропарёво</text><!--
+					<text x="285" y="997">Тропарево</text><!--
 					<text x="255" y="1027">Румянцево</text>
 					<text x="225" y="1057">Саларьево</text>-->
 				</g>
@@ -1203,7 +1203,7 @@ text {font-family:Arimo,Liberation Sans,Arial,sans-serif}
 					<text x="89" y="308">Мякинино</text>
 					<text x="89" y="338">Строгино</text>
 					<text x="89" y="368">Крылатское - 8.5</text>
-					<text x="89" y="398">Молодёжная</text>
+					<text x="89" y="398">Молодежная</text>
 					<text x="90" y="430" class="ic">Кунцевская - 6.93</text>
 					<g class="end">
 						<text x="127" y="565">Славянский<tspan x="127" dy="13"> бульвар</tspan></text>
@@ -1213,16 +1213,16 @@ text {font-family:Arimo,Liberation Sans,Arial,sans-serif}
 					<text x="572" y="626" class="ic r3 end">Арбатская</text>
 					<!--<text x="800" y="628" class="ic r3">Хмельницкая</text>-->
 					<text x="1006" y="547">Электрозаводская - 6.9</text>
-					<text x="1036" y="517">Семёновская</text>
+					<text x="1036" y="517">Семеновская</text>
 					<text x="1066" y="487">Партизанская - 6.26</text>
 					<text x="1096" y="457">Измайловская - 5.67</text>
 					<text x="1126" y="427">Первомайская - 3.8</text>
-					<text x="1156" y="397">Щёлковская</text>
+					<text x="1156" y="397">Щелковская</text>
 				</g>
 				<g id="route4_stname">
 					<text x="401" y="485" class="end">Международная - 54.76</text>
 					<text x="127" y="460">Пионерская - 6.76</text>
-					<text x="157" y="490">Филёвский парк</text>
+					<text x="157" y="490">Филевский парк</text>
 					<text x="187" y="520">Багратионовская</text>
 					<text x="217" y="550">Фили - 7.5</text>
 					<text x="300" y="600" class="end">Кутузовская - 9.5</text>
@@ -1253,11 +1253,11 @@ text {font-family:Arimo,Liberation Sans,Arial,sans-serif}
 					<text x="617" y="896">Ленинский проспект - 9.66</text>
 					<text x="587" y="926">Академическая</text>
 					<text x="557" y="956">Профсоюзная - 7.9</text>
-					<text x="534" y="981">Новые Черёмушки</text>
+					<text x="534" y="981">Новые Черемушки</text>
 					<text x="530" y="1011">Калужская - 7.96</text>
 					<text x="530" y="1041">Беляево - 5.9</text>
 					<text x="530" y="1071">Коньково - 7.8</text>
-					<text x="530" y="1101">Тёплый Стан</text>
+					<text x="530" y="1101">Теплый Стан</text>
 					<text x="530" y="1131">Ясенево - 5.8</text>
 					<text x="504" y="1175" class="ic r6 end">Новоясеневская - 5.94</text>
 				</g>
@@ -1303,7 +1303,7 @@ text {font-family:Arimo,Liberation Sans,Arial,sans-serif}
 					<text x="587" y="177">Петровско-Разумовская - 3.18</text>
 					<text x="587" y="206" class="ic">Тимирязевская - 6.8</text>
 					<text x="587" y="237">Дмитровская - 5.4</text>
-					<text x="587" y="275">Савёловская</text>
+					<text x="587" y="275">Савеловская - 7.2</text>
 					<g class="ic r9">
 						<text x="587" y="298">Менделеевская - 9.2</text>
 						<text x="664" y="413" class="end">Цветной бульвар - 11.92</text>
