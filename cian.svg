@@ -1357,24 +1357,9 @@ text {font-family:Arimo,Liberation Sans,Arial,sans-serif}
 					</g>
 				</g>
 			</g>
-			<g id="terminalname" class="small">
-				<g id="railway_stname">
-					<text transform="translate(898,388)rotate(-45)">Ленинградский</text>
-					<text transform="translate(918,388)rotate(-45)">Ярославский</text>
-					<text x="938" y="436">Казанский</text>
-					<text x="404" y="658" class="end">Киевский</text>
-					<text x="463" y="411" class="end">Белорусский</text>
-					<text x="608" y="260">Савёловский</text>
-					<text x="803" y="282" class="end">Рижский</text>
-				</g>
-				<g id="airport_stname">
-					<text x="441" y="85" class="end">Шереметьево</text>
-					<text x="142" y="940" class="mid">Внуково</text>
-					<text x="893" y="1315" class="mid">Домодедово</text>
-				</g>
-			</g>
+
 		</g>
 	</g>
 	
-	<text class="small" x="40" y="1610">Image originally created and licensed under the Creative CommonsсCreative Commons Attribution-Share  Attribution-Share Alike 3.0 Unported by Wikimedian(s). Modified by Alexander Lee - add flat prices.</text>
+	<text class="small" x="40" y="1610">Image originally created and licensed under the Creative CommonsсCreative Commons Attribution-Share  Attribution-Share Alike 3.0 Unported by Wikimedian(s). Modified by Alexander Lee - add prices.</text>
 </svg>
